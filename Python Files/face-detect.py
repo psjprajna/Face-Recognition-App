@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Mon Jul  8 12:33:38 2019
-
-@author: Prajna Shetty
-"""
 import cv2
 import os
 
