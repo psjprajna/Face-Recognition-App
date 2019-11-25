@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Mon Jul  8 12:33:38 2019
-
-@author: Prajna Shetty
-"""
-
 from __future__ import absolute_import, division, print_function, unicode_literals
 import tensorflow as tf
 import os
